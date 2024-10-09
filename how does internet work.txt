@@ -1,0 +1,10 @@
+he internet works by connecting of devices around the world to allow them to communicate with each other.
+ក្នុងដំណើរការរបស់internet មានជំហានជាច្រើនមានដូចជា:
+1. Request (សំណើសុំ) ពី Client: ពេលអ្នកបញ្ចូល URL នៅក្នុង Browser ឬចុចលើ Link ការ Request នឹងត្រូវបានផ្ញើទៅឆ្ពោះទៅសេវារបស់អ្នកផ្តល់បណ្តាញ (Web Server) តាមវិធីដែលហៅថា HTTP ឬ HTTPS Request។
+2. DNS Resolution (ដោះស្រាយឈ្មោះ DNS):
+•	URL អ្នកបញ្ចូលជាឈ្មោះដែន (Domain Name) ត្រូវបានបម្លែងទៅជា IP Address.
+•	ពេលនេះ IP Address ត្រូវបានរកឃើញនិង Browser នឹងធ្វើការតភ្ជាប់ទៅកាន់ Web Server ដែលត្រូវបានកំណត់។
+3. Data Routing (ច្រកផ្លូវទិន្នន័យ):
+•	ការផ្ញើ Request ត្រូវបញ្ជូនតាមច្រកផ្លូវបណ្តាញ (Router) ឆ្ពោះទៅកាន់ IP Address របស់ Web Server។
+•	ជាធម្មតា Request នឹងឆ្លងកាត់ Router ច្រើនមុនពេលដល់ Server ។
+4. Response (ការឆ្លើយតប) ពី Server ពេលយើងrequest websiteអ្វីមួយក្នុងinternet.

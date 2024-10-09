@@ -1,0 +1,12 @@
+របៀបដំណើរការនៃរបស់គេហទំព័រ:
+1.  ការបញ្ចូល URL:
+-ពេលយើងបញ្ចូល URL របស់គេហទំព័រ (ឧទាហរណ៍: www.youtube.com) នៅក្នុង browser នោះគឺជាដំណើរចាប់ផ្ដើម។ Browser នឹងរំពឹងឲ្យទទួលបានគេហទំព័រពី Server មួយនោះ។
+2. DNS Resolution:
+URL ត្រូវបានបម្លែងទៅជា IP Address ដោយ DNS Server។ DNS Server នេះជាប្រព័ន្ធដែលមានតួនាទីក្នុងការរកឃើញ IP Address ដែលតបគ្នាជាមួយនឹង Domain Name ដែលអ្នកបញ្ចូល។
+-ឧទាហរណ៍: www.youtube.com អាចត្រូវបានបម្លែងទៅជា IP Address 168.192.0.1។
+3. ការផ្ញើ HTTP/HTTPS Request:
+-Browser ផ្ញើសំណើសុំ HTTP ឬ HTTPS Request ទៅកាន់ Web Server ដែលមាន IP Address ត្រូវនោះ។ សំណើនេះបង្កើតឡើងជាសារ (message) ដែលមានព័ត៌មានអំពី Request method (GET, POST, PUT) ។
+4. Server ទទួលបានrequest:
+-Web Server ពេលទទួលបាន Request នេះហើយចាប់ផ្ដើមដំណើរការសំណើសុំ(request)។
+5. Response (ការឆ្លើយតប):
+-ក្រោយពី Server បានrequest វានឹងផ្ញើ Response ត្រឡប់ទៅវិញជាលទ្ធផលដែលយើងrequest→ www.youtube.com
